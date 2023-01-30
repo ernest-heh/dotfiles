@@ -12,8 +12,7 @@
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.renderControlCharacters": true,
     "editor.rulers": [
-        80,
-        120
+
     ],
     "editor.showFoldingControls": "always",
     "editor.snippetSuggestions": "top",
